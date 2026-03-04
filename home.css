@@ -15,7 +15,7 @@ a:hover {
 }
 
 .top-bar {
-    background-color: red;
+    background-color: blue;
     padding: 10px 40px;
     display: flex;
     justify-content: flex-end;
